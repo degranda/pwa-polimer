@@ -1,0 +1,76 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.3
+[debug] Time:         Fri Jun 17 2016 14:24:35 GMT-0500 (CDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/diegodegranda/Pruebas_de_tecnologias/polymer_test/pwa-polymerFire
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5001
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.3
+[debug] Time:         Fri Jun 17 2016 16:16:54 GMT-0500 (CDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/diegodegranda/Pruebas_de_tecnologias/polymer_test/pwa-polymerFire
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5002
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.3
+[debug] Time:         Mon Jun 20 2016 17:55:32 GMT-0500 (EST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/diegodegranda/Pruebas_de_tecnologias/polymer_test/pwa-polymerFire
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.3
+[debug] Time:         Mon Jun 20 2016 17:59:43 GMT-0500 (EST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/diegodegranda/Pruebas_de_tecnologias/polymer_test/pwa-polymerFire
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5001
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     darwin
+[debug] Node Version: v4.2.3
+[debug] Time:         Mon Jun 20 2016 18:05:01 GMT-0500 (EST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/diegodegranda/Pruebas_de_tecnologias/polymer_test/pwa-polymerFire
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5002
